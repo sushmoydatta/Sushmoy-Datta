@@ -1,7 +1,7 @@
 # Sushmoy-Datta
 ### Hi, I'm Sushmoy 👋
 
-Telecom engineering intern working across RAN, Transmission, and Core network domains — currently applying AI/ML and automation to network operations problems. I build things end-to-end: from data pipelines and models to the tools that make them usable.
+Telecom engineering intern working across RAN, Transmission, and Core network domains, currently applying AI/ML and automation to network operations problems. I build things end-to-end: from data pipelines and models to the tools that make them usable.
 
 **Currently exploring:** RAG systems, LLM-powered agents, and applying ML to real operational data.
 
